@@ -1,0 +1,12 @@
+D:\SEIP\test\EvenNumbers\EvenNumbers\bin\Debug\EvenNumbers.exe.config
+D:\SEIP\test\EvenNumbers\EvenNumbers\bin\Debug\EvenNumbers.exe
+D:\SEIP\test\EvenNumbers\EvenNumbers\bin\Debug\EvenNumbers.pdb
+D:\SEIP\test\EvenNumbers\EvenNumbers\obj\Debug\EvenNumbers.csprojResolveAssemblyReference.cache
+D:\SEIP\test\EvenNumbers\EvenNumbers\obj\Debug\EvenNumbers.exe
+D:\SEIP\test\EvenNumbers\EvenNumbers\obj\Debug\EvenNumbers.pdb
+E:\zahid\assignment\set 01\EvenNumbers\EvenNumbers\bin\Debug\EvenNumbers.exe.config
+E:\zahid\assignment\set 01\EvenNumbers\EvenNumbers\obj\Debug\EvenNumbers.exe
+E:\zahid\assignment\set 01\EvenNumbers\EvenNumbers\obj\Debug\EvenNumbers.pdb
+E:\zahid\assignment\set 01\EvenNumbers\EvenNumbers\bin\Debug\EvenNumbers.exe
+E:\zahid\assignment\set 01\EvenNumbers\EvenNumbers\bin\Debug\EvenNumbers.pdb
+E:\zahid\assignment\set 01\EvenNumbers\EvenNumbers\obj\Debug\EvenNumbers.csprojResolveAssemblyReference.cache
